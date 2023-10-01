@@ -64,3 +64,8 @@ h2{
   border-radius: 13px;
   cursor: pointer;
 }
+.val{
+	border: 1px solid black;
+	padding: 30px;
+	border-radius: 22px;
+}

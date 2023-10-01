@@ -63,6 +63,10 @@ h2{
   padding: 4px;
   border-radius: 13px;
   cursor: pointer;
+	transition: background-color 0.6s ease;
+}
+.reggs:hover{
+	background-color: #a6a6a6;
 }
 .val{
 	border: 1px solid black;
